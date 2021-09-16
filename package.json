@@ -1,0 +1,20 @@
+{
+  "name": "gt-cli",
+  "version": "1.0.0",
+  "description": "a google translate cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/subtosharki/gt-cli.git",
+  "author": "subtosharki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subtosharki/gt-cli/issues"
+  },
+  "homepage": "https://github.com/subtosharki/gt-cli#readme",
+  "dependencies": {
+    "nodemon": "^2.0.12",
+    "yarn": "^1.22.11"
+  }
+}
